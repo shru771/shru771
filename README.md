@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shrusti 👋
 
-<!--
-**shru771/shru771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst skilled in SQL, Power BI, Python, and Data Visualization.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Power BI
+- Python
+- Excel
+- DAX
+- Pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- HR Analytics Dashboard
+- CSAT Analytics Dashboard
+- IMDB SQL Analysis
+- Book Recommendation System
+
+## Connect With Me
+LinkedIn: linkedin.com/in/shrustinp
